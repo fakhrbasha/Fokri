@@ -231,7 +231,6 @@
     position: absolute;
     top: 930px;
     left: 300px;
-    background-image: url(/img/about.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -239,6 +238,9 @@
     height: 470px;
     border-radius: 5px;
     background-color: transparent;
+}
+.borderimage img{
+    width: 109%;
 }
 .text{
     padding-top: 120px;
